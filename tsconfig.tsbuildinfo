@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./websocket_frontend/vite.config.ts","./websocket_frontend/src/app.tsx","./websocket_frontend/src/main.tsx","./websocket_frontend/src/vite-env.d.ts"],"errors":true,"version":"5.9.2"}
